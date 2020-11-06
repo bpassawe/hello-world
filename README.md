@@ -1,2 +1,2 @@
 # hello-world
-My GitHub Journey!
+Hi there, I am Bill and I like Github.
